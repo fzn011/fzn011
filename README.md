@@ -1,56 +1,44 @@
-![IMG_7418](https://github.com/user-attachments/assets/68a9097c-45a7-430f-8253-6734f80533e7)
+![IMG_7418](https://github.com/user-attachments/assets/e743e8e1-4003-4809-b8a0-2fb38fe4eff8)
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 <p align="center">
   <a href="https://github.com/fzn011">
-    <img width="350" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Touhidul%20Islam2.png" alt="Touhidul Islam" /></a>
-</p>a
+    <img width="350" src="https://github.com/fzn011/fzn011/blob/main/Faiaz%20Zahin.png" alt="Faiaz Zahin" /></a>
+</p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Passionate%20Electrical%20Engineer%20from%20Bangladesh&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Passionate%20Computer%20Engineer%20from%20Bangladesh&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/touhidulislam"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <!--a href="https://www.linkedin.com/in/touhidul-islam-eee-iut/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;-->
+  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/touhidul-islam-eee-iut/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/touhidul.14.11.99"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/Touhidu36442112"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://introcardbd.app/profile/md-touhidul-islam"><img width="42px" alt="Dev.to" title="Touhidul Islam" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Profile.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://touhidul.com/"><img width="40px" alt="Ko-fi" title="Website" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Website.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img width="200px" alt="views" title="GitHub profile views" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Visitors.png"/></a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fzn011&label=Profile%20views&color=0e75b6&style=flat" alt="fzn011" /> </p>
 <p align='center'><img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
 
 
-- 🔭 I’m currently working on **Traffic Vehicle Detection of Dhaka City using Deep Learning Algorithm**
+- 🔭 I’m currently working on **Innovative AI Solutions for the Digitalization and Preservation of Bangladesh’s Cultural Heritage**
 
 - 🌱 I’m currently learning **Computer Visions, Machine Learning, Full Stack, DBMS**
 
-- 🤝 I’m looking for help with [Store Billing Management System](https://script.google.com/macros/s/AKfycbykWz0ata6-XJmmBsxW4ueB2Z85EiKHmW0mZbZ1Tk__wbcR5IUVgrasWs_lT9tHfcV6mw/exec)
 
-- 👨‍💻 All of my projects are available at [Projects](https://touhidul.com/projects/)
 
-- 📝 I regularly write articles on [Blogs](https://touhidul.com/travels/)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/fzn011?tab=repositories)
 
 - 💬 Ask me about **How was my day?**
 
-- 📫 How to reach me **touhidulislam@iut-dhaka.edu**
+- 📫 How to reach me **faiazzahin@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.usercontent.google.com/uc?id=1v9JEKsm2Mu9aBTV7xl5ClhKFz8zOi7qx&export=download)
+- 📄 Know about my experiences [CV]()
 
 - ⚡ Fun fact **I think I've got quite a diverse set of interests.**
 <br/>
