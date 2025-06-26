@@ -28,13 +28,13 @@
 
 - 🔭 I’m currently working on **Innovative AI Solutions for the Digitalization and Preservation of Bangladesh’s Cultural Heritage**
 
-- 🌱 I’m currently learning **Computer Visions, Machine Learning, Full Stack, DBMS**
+- 🌱 I’m currently learning **Computer Vision, Machine Learning, Full Stack, DBMS**
 
 
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fzn011?tab=repositories)
 
-- 💬 Ask me about **How was my day?**
+- 💬 What is the output of: while(alive) { code(); }**
 
 - 📫 How to reach me **faiazzahin@gmail.com**
 
