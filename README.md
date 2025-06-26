@@ -14,7 +14,7 @@
 <p align="center">
   <!--a href="https://www.linkedin.com/in/touhidul-islam-eee-iut/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
+  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/fzn011/fzn011/blob/main/F2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
@@ -34,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fzn011?tab=repositories)
 
-- 💬 What is the output of: while(alive) { code(); }**
+- 💬 What is the output of: while(alive) { code(); }?
 
 - 📫 How to reach me **faiazzahin@gmail.com**
 
@@ -117,11 +117,11 @@
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=touhidulislam1999&show_icons=true&theme=transparent&layout=compact&hide=html"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidulislam1999&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=fzn011&show_icons=true&theme=transparent&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzn011&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
        <tr>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=touhidulislam1999&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
-       <td><img alt="Devorein :: Contribution graph]" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touhidulislam1999&theme=transparent&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fzn011&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Contribution graph]" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzn011&theme=transparent&layout=compact&hide=html"> </td>
        </tr>
      </tr>
    </table>
