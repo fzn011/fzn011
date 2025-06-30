@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **faiazzahin@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.usercontent.google.com/uc?id=1wK6YLanh0YXeHYw4cu3_p7yL9_Edn_V6&export=download)
+- 📄 Know about my experiences **[CV](https://drive.usercontent.google.com/uc?id=1wK6YLanh0YXeHYw4cu3_p7yL9_Edn_V6&export=download)**
 
 - ⚡ Fun fact **I think I've got quite a diverse set of interests.**
 <br/>
