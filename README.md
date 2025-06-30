@@ -12,9 +12,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <!--a href="https://www.linkedin.com/in/touhidul-islam-eee-iut/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/fzn011/fzn011/blob/main/F2.png"/></a>
+  <!-- Linkidin-->
+  <a href="https://www.linkedin.com/in/faiaz-zahin21/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Facebook-->
+  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
