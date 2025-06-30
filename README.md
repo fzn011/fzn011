@@ -1,5 +1,5 @@
 ![IMG_7418](https://github.com/user-attachments/assets/e743e8e1-4003-4809-b8a0-2fb38fe4eff8)
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Aspiring to be Inspired`**
 <p align="center">
   <a href="https://github.com/fzn011">
     <img width="350" src="https://github.com/fzn011/fzn011/blob/main/Faiaz%20Zahin.png" alt="Faiaz Zahin" /></a>
