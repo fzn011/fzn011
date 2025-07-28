@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on **Innovative AI Solutions for the Digitalization and Preservation of Bangladesh’s Cultural Heritage**
 
-- 🌱 I’m currently learning **Computer Vision, Machine Learning, Full Stack, DBMS**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Full Stack, DBMS**
 
 
 
