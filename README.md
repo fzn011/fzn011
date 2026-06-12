@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Faiaz Zahin — Midnight Aurora"/>
-
-<br/><br/>
-
-<img src="assets/workspace-hero.jpg" width="100%" alt="Faiaz Zahin — Developer Workspace" style="border-radius: 16px;"/>
+<img src="assets/workspace-hero.jpg" width="100%" alt="Faiaz Zahin — Developer Workspace"/>
 
 <br/>
 
@@ -13,7 +9,7 @@
 <br/><br/>
 
 <a href="https://github.com/fzn011">
-  <img src="assets/avatar-frame.svg" width="180" height="180" alt="Faiaz Zahin"/>
+  <img src="assets/avatar.png" width="180" height="180" alt="Faiaz Zahin" style="border-radius: 50%;"/>
 </a>
 
 <br/><br/>
