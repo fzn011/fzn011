@@ -1,4 +1,4 @@
-![IMG_7418](https://github.com/user-attachments/assets/e743e8e1-4003-4809-b8a0-2fb38fe4eff8)
+![logo](https://github.com/fzn011/fzn011/blob/main/Banner%20Final%20(1).jpg)
 **`Aspiring to be Inspired`**
 <p align="center">
   <a href="https://github.com/fzn011">
@@ -16,8 +16,7 @@
   <a href="https://www.linkedin.com/in/faiaz-zahin21/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Facebook-->
-  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/iamfzn0/"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/fzn011/fzn011/blob/main/F2.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
@@ -28,17 +27,15 @@
 <p align='center'><img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
 
 
-- 🔭 I’m currently working on **Innovative AI Solutions for the Digitalization and Preservation of Bangladesh’s Cultural Heritage**
+- 🔭 I’m currently working on **Innovative AI Solutions for the Digitalization and Preservation of Bangladesh's Cultural Heritage**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Full Stack, DBMS**
-
-
 
 - 👨‍💻 All of my projects are available at **[Projects](https://github.com/fzn011?tab=repositories)**
 
 - 📫 How to reach me **faiazzahin@gmail.com**
 
-- 📄 Know about my experiences **[CV](https://drive.usercontent.google.com/uc?id=1wK6YLanh0YXeHYw4cu3_p7yL9_Edn_V6&export=download)**
+- 📄 Know about my experiences [CV](https://drive.usercontent.google.com/uc?id=1wK6YLanh0YXeHYw4cu3_p7yL9_Edn_V6&export=download)
 
 - ⚡ Fun fact **I think I've got quite a diverse set of interests.**
 <br/>
